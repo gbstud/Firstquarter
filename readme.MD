@@ -92,3 +92,5 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+Скриншоты выполнения программы:  
+![image](.\dotnet_run_result.png)
