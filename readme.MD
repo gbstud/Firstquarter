@@ -94,3 +94,5 @@ void PrintArray(string[] array)
 }
 Скриншоты выполнения программы:  
 ![image](.\dotnet_run_result.png)
+Коммиты:  
+![image](.\git_log_graph.png)
