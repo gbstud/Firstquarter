@@ -12,3 +12,9 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+
+Решение:
+1. Создал репозиторий Firstquarter
+2. Блок-схема  
+![image](.\Block-scheme.drawio.png)
+
